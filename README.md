@@ -10,6 +10,8 @@ If he hits an object, your Sphero flashes up and will have a short blackout.
 If your Sphero flies while rolling relatively fast, he will turn to happy light white.
 Additionally to all moves, the Sphero indicates its back like a tail by the blue dot light, which glows corresponding to the current speed.
 
+![Sphero Glow](https://raw.githubusercontent.com/IOIO72/sphero-speedglow/master/sphero-glow.jpg "Sphero Glow")
+
 # Requirements
 
 1. You need a Sphero 2: http://www.gosphero.com/sphero-2-0/
